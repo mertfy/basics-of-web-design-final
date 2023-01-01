@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    font-size: 55px;
+    color: red;
+    background-color: rgba(228, 225, 221, 0.199);
+    border-width: 5px;
+}
+
+p {
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 25px;
+    background-color: rgba(255, 228, 196, 0.082);
+    color: rgba(0, 0, 0, 0.959);
+}
+
+body{
+    background-image: url(foto4.jpg);
+    background-repeat : no-repeat;
+    background-size: cover;
+    font-weight:bold; 
+}
+
+.div1 {
+    border: 5px outset rgba(255, 0, 0, 0.377);
+    background-color: rgba(202, 39, 39, 0.541);
+    width: 800px;
+    height: 750px;
+}
+
+.buttonzz button {
+    margin-left:75%;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+    background:rgb(255, 255, 255);
+    height: 80px;
+    width: 185px;
+    border-radius: 25px;
+    cursor: pointer;
+    display: inline-block;
+   
+
+}

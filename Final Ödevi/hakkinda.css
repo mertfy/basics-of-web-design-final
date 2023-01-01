@@ -1,0 +1,25 @@
+h1 {
+        text-align: center;
+        color: red;
+        background: rgba(189, 179, 199, 0.356);
+        font-size: 75px;
+        margin-top: auto;
+}
+
+p {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: auto;
+    font-size: 24px;
+    font: bolder;
+    color: rgb(0, 0, 0);
+    background-color: rgba(154, 240, 146, 0.63);
+}
+
+body{
+
+    background-image: url(foto3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
