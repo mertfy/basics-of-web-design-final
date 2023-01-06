@@ -26,11 +26,12 @@ body{
     background-color: rgba(202, 39, 39, 0.541);
     width: 800px;
     height: 750px;
+    position: absolute;
 }
 
 .buttonzz button {
     margin-left:75%;
-    margin-top: 20px;
+    margin-top: 150px;
     font-weight: bold;
     font-size: 20px;
     color: red;
@@ -40,6 +41,7 @@ body{
     border-radius: 25px;
     cursor: pointer;
     display: inline-block;
+    position: relative;
    
 
 }
