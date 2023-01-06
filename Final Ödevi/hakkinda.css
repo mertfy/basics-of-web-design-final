@@ -23,3 +23,10 @@ body{
     background-size: cover;
 }
 
+.buttons{
+    margin-left: 35%;
+    font-weight: bolder;
+   padding-left: 50px;
+   size: 20px;
+  
+}
