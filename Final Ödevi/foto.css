@@ -79,13 +79,27 @@
 
 
 .buttons button{
-    height: 50px;
-    width: 150px;
+    height: 60px;
+    width: 160px;
     font-weight: bold;
     font-size: 18px;
-    color:rgb(175, 175, 182) ;
-    background: rgb(81, 81, 82);
+    color:rgb(68, 68, 107) ;
+    background: rgb(102, 102, 131);
     border-radius: 25px;
+    cursor: pointer;
 }
 
+#dropcuk    {
+    display: none;
+    z-index: 1;
+    position: absolute;
+    margin-top: -40px;
+    background-color: rgb(185, 174, 160);
+    color: aquamarine;
+    
+}
 
+.dropli:hover #dropcuk{
+    display: block;
+
+}
